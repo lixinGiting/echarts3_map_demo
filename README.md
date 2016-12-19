@@ -1,5 +1,5 @@
 # echarts3_map_demo
-
+效果预览：http://htmlpreview.github.io/?https://github.com/lixinGiting/echarts3_map_demo/blob/master/index.html
 内容说明：利用ECharts3来实现ECharts2实例中的模拟迁徙效果，即背景地图为百度地图。
 
 背景介绍：
